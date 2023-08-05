@@ -82,6 +82,3 @@ Here are some ideas to get you started:
   
 </p>
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
-
-⭐️ From [chandan-reddy-k](https://github.com/chandan-reddy-k)
